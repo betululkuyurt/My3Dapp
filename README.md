@@ -1,0 +1,1 @@
+This project showcases a Three.js scene with various 3D models, including trees, a Stormtrooper, an Elf, and Walt Disney's head, along with additional elements like walls, mirrors, tables, and a dynamic shader-animated sphere. The scene also features lighting, shadows, and camera manipulation.
